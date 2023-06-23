@@ -24,6 +24,9 @@
 .color-greyScale{
     color: #545B64 !important;
 }
+.color-greyBlueScale{
+    color: #546071 !important;
+}
 
 .color-orange{
     color: #FF7C04 !important;
@@ -217,6 +220,10 @@
     line-height: 19px;
 }
 
+.lh-20 {
+    line-height: 20px;
+}
+
 .lh-22 {
     line-height: 22px;
 }
@@ -250,7 +257,9 @@
 .btn-modal-submit {
     padding: 8.5px 21.5px;
 }
-
+.btn-modal-set-default {
+    padding: 8.5px 10px;
+}
 .btn-primary {
     background-color: #0747A6;
     color: #ffffff;
@@ -712,3 +721,6 @@ item:active {
 /* .accordion-button::after{
     background-image: url(../../images/accordion-arrow.svg);
 } */
+.w-75{
+    width: 75%;
+}
